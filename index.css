@@ -42,13 +42,13 @@ button:nth-child(2) {
 }
 
 button:nth-child(1):hover {
-    background-color: #1ea0eb;
-    color: #222121;
+    color:#1ea0eb;
+    box-shadow:0 4px 20px 0 #49696e, 0 6px 20px 0 #49696e;
 }
 
 button:nth-child(2):hover {
-    background-color: #ee4a22;
-    color: #222121;
+    color: #ee4a22;
+    box-shadow:0 4px 8px 0 #8a593d, 0 6px 20px 0 #8a593d;
 }
 
 button span {
